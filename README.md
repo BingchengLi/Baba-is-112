@@ -1,5 +1,5 @@
 # Baba Is 112
-Baba Is 112 is a puzzle video game that players can determine their own rules while playing. It is based on the video game Baba is You created by developer Arvi Teikari. https://store.steampowered.com/app/736260/Baba_Is_You/
+Baba Is 112 is a puzzle video game that players can determine their own rules while playing. It is based on the video game [Baba is You](https://store.steampowered.com/app/736260/Baba_Is_You/) created by developer Arvi Teikari. 
 
 :3rd_place_medal:Third place in Hack112, a 24-hour hackathon organized by Carnegie Mellon University.
 
