@@ -17,3 +17,5 @@ Players need to have the main codes named `Hack112.py`, `cmu_112_graphics.py`, a
 
 ## Video Demo
 We made a [video](https://www.youtube.com/watch?v=yf3X8sXnqng) for project showcase. Take a look!
+
+[![](/images/readme.md)](https://www.youtube.com/watch?v=yf3X8sXnqng)
